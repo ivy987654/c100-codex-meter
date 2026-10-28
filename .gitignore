@@ -1,0 +1,14 @@
+qmk_firmware/
+build/
+__pycache__/
+*.pyc
+*.bin
+*.hex
+*.elf
+*.log
+.env*
+*.pem
+*.key
+*.zip
+preview.html
+.DS_Store
